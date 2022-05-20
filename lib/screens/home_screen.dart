@@ -63,12 +63,12 @@ class _HomeScreenState extends State<HomeScreen> {
                                 StoriesListWidget(
                                     imagePath:
                                         "./assets/images/avatar/people3.png",
-                                    name: "Fatima"),
+                                    name: "Alyssa"),
                                 SizedBox(width: 16),
                                 StoriesListWidget(
                                     imagePath:
                                         "./assets/images/avatar/people4.jpeg",
-                                    name: "Alyssa"),
+                                    name: "Elie Goulding"),
                                 SizedBox(width: 16),
                                 StoriesListWidget(
                                     imagePath:
@@ -96,7 +96,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           avatar: "./assets/images/avatar/people3.png",
                           postUrl: "./assets/images/posts/post3.jpeg",
                           caption: "beautiful Quote, Right?",
-                          name: "Fatima Haider",
+                          name: "Alyssa Lynch",
                         ),
                         const SizedBox(height: 22),
                         SinglePost(
